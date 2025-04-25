@@ -7,7 +7,7 @@ import onewire
 import ds18x20
 import urequests
 import json
-import sensors
+import sensor_reading
 
 # Network credentials
 ssid = 'Pico Network'
